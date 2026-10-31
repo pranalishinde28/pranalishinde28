@@ -3,8 +3,8 @@
 <h3 align="center">Research Engineer · Machine Learning · Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Research%20Engineer%20Roles-000000?style=for-the-badge" alt="Open to Research Engineer roles"/>
-  <img src="https://img.shields.io/badge/Location-Tokyo%20%7C%20Remote-000000?style=for-the-badge" alt="Tokyo or Remote"/>
+  <img src="https://img.shields.io/badge/Open%20to-Research%20Engineer%20Roles-000000?style=for-the-badge" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Location-Tokyo%20%7C%20Remote-000000?style=for-the-badge" alt="Location"/>
 </p>
 
 <p align="center">
@@ -18,126 +18,76 @@
 
 ### 🔬 About me
 
-I'm a research engineer who enjoys turning emerging ideas in AI into working, measurable systems.
+I'm a research engineer who enjoys turning ideas from emerging research into working, measurable systems.
 
-I enjoy the full loop: exploring research and technical literature, understanding the problem, building prototypes and baselines, evaluating different approaches, and engineering solutions that can work beyond a proof of concept.
+I enjoy the full loop: exploring technical literature, understanding complex problems, building prototypes, evaluating different approaches, and shipping engineering solutions that others can build upon.
 
-Currently working at **DENSO Global R&D in Tokyo, Japan**, I explore problems at the intersection of AI, software engineering, digital identity, and intelligent mobility.
+Currently working at **DENSO Global R&D in Tokyo, Japan**, I explore the intersection of AI, software engineering, digital identity, and automotive technology.
 
-* 🎯 **Looking for:** Research Engineer / ML Engineer / Applied AI roles (Tokyo or remote)
-* 🧠 **Research interests:** `Agentic AI` · `Physical AI` · `Machine Learning` · `Intelligent Mobility`
-* 🌱 **Currently exploring:** AI agents, MCP, robotics, autonomous systems, and edge intelligence
-* 🛠️ **Building with:** Python · TypeScript · Node.js · LLMs · MCP · Distributed Systems
 * 🎓 **Education:** B.Tech in Computer Science, IIT Patna (2023)
-* 📍 **Based in:** Tokyo, Japan
+* 💼 **Currently:** Research & engineering at DENSO Global R&D, Tokyo
+* 🎯 **Looking for:** Research Engineer / ML Engineer / Applied AI roles (Tokyo or remote)
+* 🧠 **Research interests:** `Machine Learning` · `Agentic AI` · `Physical AI` · `Intelligent Mobility`
+* 🌱 **Currently exploring:** AI agents, MCP, robotics, autonomous systems, and edge intelligence
 * 🗣️ **Languages:** English · Japanese (Beginner)
 
 ---
 
-### 🧠 Research interests
+### 📌 Selected projects
 
-| Research area         | Areas of exploration                                       |
-| :-------------------- | :--------------------------------------------------------- |
-| Machine Learning & AI | Applied ML, intelligent systems, LLM applications          |
-| Agentic AI            | Agent architectures, interoperability, MCP, orchestration  |
-| Physical AI           | Robotics, embodied intelligence, autonomous systems        |
-| Intelligent Mobility  | Connected vehicles, automotive intelligence, edge AI       |
-| Trustworthy AI        | Digital identity, verifiable credentials, secure execution |
-| Systems Engineering   | Distributed systems, system architecture, edge computing   |
+| Project                                                                   | What it is                                                                                                                   | Stack                             |
+| :------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------- | :-------------------------------- |
+| [**garden-of-poems**](https://github.com/pranalishinde28/garden-of-poems) | A walkable 3D garden where thoughts and poems grow into an evolving visual landscape.                                        | JavaScript, Three.js, Next.js     |
+| **Intelligent Mobility & Digital Identity**                               | Exploring vehicle identities, verifiable credentials, selective disclosure, and trusted data exchange in connected mobility. | TypeScript, Node.js, SSI, OIDC4VC |
+| **Agentic AI & Interoperability**                                         | Exploring AI agent architectures, MCP-based tool interactions, interoperability, and secure agent workflows.                 | Python, TypeScript, MCP           |
+| **Automotive Data Traceability PoC**                                      | A permissioned blockchain proof of concept for automotive data provenance, tamper detection, and controlled data sharing.    | Hyperledger Fabric, Node.js, AWS  |
 
 ---
 
-### 📌 Selected projects & engineering explorations
+### 📄 Research interests & technical writing
 
-**01. Intelligent Mobility & Digital Identity**
+Interested in exploring and documenting research ideas, engineering experiments, and system architectures.
 
-Exploring how vehicles can become trusted participants in connected mobility ecosystems.
+* **Machine Learning:** Understanding and experimenting with applied ML approaches.
+* **Agentic AI:** Exploring agent architectures, tool use, interoperability, and orchestration.
+* **Physical AI:** Learning about robotics, embodied intelligence, and autonomous systems.
+* **Intelligent Mobility:** Investigating connected vehicles, automotive intelligence, and edge computing.
+* **Trustworthy AI:** Exploring digital identity, verifiable credentials, and secure execution.
 
-* Vehicle identity and verifiable credentials
-* Secure data exchange and selective disclosure
-* AI-assisted consent and authorization
-* Edge-based identity and trust architectures
-
-`SSI` `OIDC4VC` `SD-JWT` `TypeScript` `Node.js`
-
----
-
-**02. Agentic AI & Interoperability**
-
-Exploring architectures for AI agents that interact with external tools, services, and digital environments.
-
-* Model Context Protocol (MCP)
-* Agent interoperability and orchestration
-* Identity-aware agent interactions
-* Security, governance, and bounded tool access
-
-`Python` `TypeScript` `MCP` `REST APIs`
+*Research notes and technical write-ups coming soon.*
 
 ---
 
-**03. Blockchain-Based Automotive Data Traceability**
+### 🛠️ Toolkit
 
-Engineering a proof of concept for trusted automotive data distribution.
+**AI & Intelligent Systems**
 
-* Permissioned blockchain architecture
-* Data provenance and tamper detection
-* Role-based data access
-* Secure data-sharing workflows
-
-`Hyperledger Fabric` `Node.js` `AWS`
-
----
-
-**04. [Garden of Poems](https://github.com/pranalishinde28/garden-of-poems)**
-
-An experiment in interactive 3D environments and digital storytelling.
-
-A virtual garden where thoughts and poems grow into an evolving visual landscape that users can explore.
-
-`JavaScript` `Three.js` `Next.js`
-
----
-
-### 📄 Research notes & technical writing
-
-Interested in documenting technical explorations, architectural decisions, research insights, and experiments.
-
-* Research paper reviews and technical notes — coming soon
-* Engineering experiments and implementation notes — coming soon
-* Architecture explorations and technical write-ups — coming soon
-
----
-
-### 🛠️ Technical toolkit
-
-**AI & Machine Learning**
-
-<img src="https://img.shields.io/badge/Machine%20Learning-000000?style=flat" />
-<img src="https://img.shields.io/badge/AI%20Agents-000000?style=flat" />
-<img src="https://img.shields.io/badge/MCP-000000?style=flat" />
-<img src="https://img.shields.io/badge/LLM%20Applications-000000?style=flat" />
+<img src="https://img.shields.io/badge/AI%20Agents-000000?style=flat" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/MCP-000000?style=flat" alt="MCP"/>
+<img src="https://img.shields.io/badge/LLM%20Applications-000000?style=flat" alt="LLM Applications"/>
+<img src="https://img.shields.io/badge/Applied%20AI-000000?style=flat" alt="Applied AI"/>
 
 **Programming & Development**
 
-<img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 
-**Systems & Infrastructure**
+**Infrastructure & Systems**
 
-<img src="https://img.shields.io/badge/AWS-000000?style=flat&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-000000?style=flat&logo=amazonaws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white" alt="Linux"/>
+<img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white" alt="Git"/>
 
-**Identity, Security & Distributed Systems**
+**Identity & Distributed Systems**
 
-<img src="https://img.shields.io/badge/Hyperledger%20Fabric-000000?style=flat" />
-<img src="https://img.shields.io/badge/SSI-000000?style=flat" />
-<img src="https://img.shields.io/badge/OIDC4VC-000000?style=flat" />
-<img src="https://img.shields.io/badge/SD--JWT-000000?style=flat" />
-<img src="https://img.shields.io/badge/Distributed%20Systems-000000?style=flat" />
+<img src="https://img.shields.io/badge/Hyperledger%20Fabric-000000?style=flat" alt="Hyperledger Fabric"/>
+<img src="https://img.shields.io/badge/SSI-000000?style=flat" alt="SSI"/>
+<img src="https://img.shields.io/badge/OIDC4VC-000000?style=flat" alt="OIDC4VC"/>
+<img src="https://img.shields.io/badge/SD--JWT-000000?style=flat" alt="SD-JWT"/>
+<img src="https://img.shields.io/badge/Distributed%20Systems-000000?style=flat" alt="Distributed Systems"/>
 
 ---
 
@@ -145,25 +95,15 @@ Interested in documenting technical explorations, architectural decisions, resea
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=pranalishinde28&show_icons=true&hide_border=true&theme=transparent&title_color=000000&text_color=555555&icon_color=000000" alt="GitHub statistics"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranalishinde28&layout=compact&hide_border=true&theme=transparent&title_color=000000&text_color=555555" alt="Most used languages"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranalishinde28&layout=compact&hide_border=true&theme=transparent&title_color=000000&text_color=555555" alt="Top languages"/>
 </p>
 
 ---
 
-### 💭 Beyond engineering
-
-I enjoy exploring emerging technologies, attending developer and research events, experimenting with unconventional ideas, and building things that make complex concepts tangible.
-
-I believe good research engineering requires both scientific curiosity and the ability to make things work.
-
----
-
 <p align="center">
-  <b>OPEN TO RESEARCH & ENGINEERING OPPORTUNITIES</b>
+  <i>Curious about ideas. Interested in experiments. Excited to build what comes next.</i>
   <br/><br/>
-  Interested in collaborating on machine learning, AI research, intelligent systems, robotics, and the future of mobility.
-  <br/><br/>
-  <i>Let's turn interesting questions into working systems.</i>
-  <br/><br/>
-  <a href="mailto:YOUR_EMAIL">Get in touch ↗</a>
+  📫 **Interested in collaborating or discussing research engineering?**
+  <br/>
+  <a href="mailto:YOUR_EMAIL">Let's connect ↗</a>
 </p>
