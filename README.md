@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Pranali 👋</h1>
 
-<h3 align="center">Research Engineer · Machine Learning · Intelligent Systems</h3>
+<h3 align="center">Research Engineer · Intelligent Systems</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Research%20Engineer%20Roles-24292e?style=for-the-badge" alt="Open to Research Engineer roles"/>
