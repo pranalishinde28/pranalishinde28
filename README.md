@@ -1,59 +1,49 @@
-
 <h1 align="center">Hi, I'm Pranali 👋</h1>
 
-<h3 align="center">Research Engineer · AI Systems · Intelligent Mobility</h3>
+<h3 align="center">Research Engineer · Machine Learning · Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Research%20Engineering%20Roles-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Tokyo%2C%20Japan-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Research%20Engineer%20Roles-000000?style=for-the-badge" alt="Open to Research Engineer roles"/>
+  <img src="https://img.shields.io/badge/Location-Tokyo%20%7C%20Remote-000000?style=for-the-badge" alt="Tokyo or Remote"/>
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_CV_LINK">
-    <img src="https://img.shields.io/badge/Resume-000000?style=flat&logo=readthedocs&logoColor=white" />
-  </a>
-  <a href="https://github.com/pranalishinde28">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />
-  </a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="YOUR_CV_LINK"><img src="https://img.shields.io/badge/CV%20%2F%20Resume-000000?style=flat&logo=readthedocs&logoColor=white" alt="CV"/></a>
+  <a href="https://github.com/pranalishinde28"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
 
 ### 🔬 About me
 
-I'm a Computer Science engineer interested in understanding how intelligent systems can be designed, built, and deployed in the real world.
+I'm a research engineer who enjoys turning emerging ideas in AI into working, measurable systems.
 
-Currently working at **DENSO Global R&D in Tokyo, Japan**, I explore problems at the intersection of AI, software engineering, digital identity, and automotive technology.
+I enjoy the full loop: exploring research and technical literature, understanding the problem, building prototypes and baselines, evaluating different approaches, and engineering solutions that can work beyond a proof of concept.
 
-My interests lie beyond model development — understanding system architectures, exploring emerging research, evaluating technical approaches, and building reliable intelligent applications.
+Currently working at **DENSO Global R&D in Tokyo, Japan**, I explore problems at the intersection of AI, software engineering, digital identity, and intelligent mobility.
 
-I enjoy the process of moving from an open-ended research question to an experiment, a working prototype, and eventually an engineering solution.
-
-- 🎓 **Education:** B.Tech in Computer Science, IIT Patna (2023)
-- 💼 **Current role:** DENSO Global R&D, Tokyo, Japan
-- 🎯 **Looking for:** Research Engineer / AI Research Engineer / Applied AI roles
-- 🧠 **Research interests:** Agentic AI · Physical AI · Intelligent Mobility · Trustworthy AI
-- 🌱 **Currently exploring:** AI agents, MCP, robotics, autonomous systems and edge intelligence
-- 🌏 **Location:** Tokyo, Japan · Open to global opportunities
+* 🎯 **Looking for:** Research Engineer / ML Engineer / Applied AI roles (Tokyo or remote)
+* 🧠 **Research interests:** `Agentic AI` · `Physical AI` · `Machine Learning` · `Intelligent Mobility`
+* 🌱 **Currently exploring:** AI agents, MCP, robotics, autonomous systems, and edge intelligence
+* 🛠️ **Building with:** Python · TypeScript · Node.js · LLMs · MCP · Distributed Systems
+* 🎓 **Education:** B.Tech in Computer Science, IIT Patna (2023)
+* 📍 **Based in:** Tokyo, Japan
+* 🗣️ **Languages:** English · Japanese (Beginner)
 
 ---
 
 ### 🧠 Research interests
 
-| Area | What interests me |
-|:---|:---|
-| Artificial Intelligence | Applied AI, intelligent systems, AI agents |
-| Agentic Systems | Agent interoperability, MCP, orchestration, tool use |
-| Physical AI | Robotics, autonomous systems, embodied intelligence |
-| Intelligent Mobility | Automotive intelligence, connected vehicles, edge AI |
-| Trustworthy AI | Digital identity, verifiable credentials, secure execution |
-| Systems Research | Distributed systems, system architecture, edge computing |
+| Research area         | Areas of exploration                                       |
+| :-------------------- | :--------------------------------------------------------- |
+| Machine Learning & AI | Applied ML, intelligent systems, LLM applications          |
+| Agentic AI            | Agent architectures, interoperability, MCP, orchestration  |
+| Physical AI           | Robotics, embodied intelligence, autonomous systems        |
+| Intelligent Mobility  | Connected vehicles, automotive intelligence, edge AI       |
+| Trustworthy AI        | Digital identity, verifiable credentials, secure execution |
+| Systems Engineering   | Distributed systems, system architecture, edge computing   |
 
 ---
 
@@ -63,10 +53,10 @@ I enjoy the process of moving from an open-ended research question to an experim
 
 Exploring how vehicles can become trusted participants in connected mobility ecosystems.
 
-- Vehicle identity and verifiable credentials
-- Secure data exchange and selective disclosure
-- AI-assisted consent and authorization
-- Edge-based identity and trust architectures
+* Vehicle identity and verifiable credentials
+* Secure data exchange and selective disclosure
+* AI-assisted consent and authorization
+* Edge-based identity and trust architectures
 
 `SSI` `OIDC4VC` `SD-JWT` `TypeScript` `Node.js`
 
@@ -76,10 +66,10 @@ Exploring how vehicles can become trusted participants in connected mobility eco
 
 Exploring architectures for AI agents that interact with external tools, services, and digital environments.
 
-- Model Context Protocol (MCP)
-- Agent interoperability and orchestration
-- Identity-aware agent interactions
-- Security, governance and bounded tool access
+* Model Context Protocol (MCP)
+* Agent interoperability and orchestration
+* Identity-aware agent interactions
+* Security, governance, and bounded tool access
 
 `Python` `TypeScript` `MCP` `REST APIs`
 
@@ -89,10 +79,10 @@ Exploring architectures for AI agents that interact with external tools, service
 
 Engineering a proof of concept for trusted automotive data distribution.
 
-- Permissioned blockchain architecture
-- Data provenance and tamper detection
-- Role-based data access
-- Secure data-sharing workflows
+* Permissioned blockchain architecture
+* Data provenance and tamper detection
+* Role-based data access
+* Secure data-sharing workflows
 
 `Hyperledger Fabric` `Node.js` `AWS`
 
@@ -100,7 +90,7 @@ Engineering a proof of concept for trusted automotive data distribution.
 
 **04. [Garden of Poems](https://github.com/pranalishinde28/garden-of-poems)**
 
-A creative exploration of interactive 3D environments and digital storytelling.
+An experiment in interactive 3D environments and digital storytelling.
 
 A virtual garden where thoughts and poems grow into an evolving visual landscape that users can explore.
 
@@ -108,22 +98,23 @@ A virtual garden where thoughts and poems grow into an evolving visual landscape
 
 ---
 
-### 📄 Publications & technical writing
+### 📄 Research notes & technical writing
 
 Interested in documenting technical explorations, architectural decisions, research insights, and experiments.
 
-- **Research notes:** Coming soon
-- **Technical writing:** Coming soon
+* Research paper reviews and technical notes — coming soon
+* Engineering experiments and implementation notes — coming soon
+* Architecture explorations and technical write-ups — coming soon
 
 ---
 
 ### 🛠️ Technical toolkit
 
-**AI & Intelligent Systems**
+**AI & Machine Learning**
 
+<img src="https://img.shields.io/badge/Machine%20Learning-000000?style=flat" />
 <img src="https://img.shields.io/badge/AI%20Agents-000000?style=flat" />
 <img src="https://img.shields.io/badge/MCP-000000?style=flat" />
-<img src="https://img.shields.io/badge/Applied%20AI-000000?style=flat" />
 <img src="https://img.shields.io/badge/LLM%20Applications-000000?style=flat" />
 
 **Programming & Development**
@@ -145,6 +136,7 @@ Interested in documenting technical explorations, architectural decisions, resea
 <img src="https://img.shields.io/badge/Hyperledger%20Fabric-000000?style=flat" />
 <img src="https://img.shields.io/badge/SSI-000000?style=flat" />
 <img src="https://img.shields.io/badge/OIDC4VC-000000?style=flat" />
+<img src="https://img.shields.io/badge/SD--JWT-000000?style=flat" />
 <img src="https://img.shields.io/badge/Distributed%20Systems-000000?style=flat" />
 
 ---
@@ -152,8 +144,8 @@ Interested in documenting technical explorations, architectural decisions, resea
 ### 📊 GitHub activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pranalishinde28&show_icons=true&hide_border=true&theme=transparent&title_color=000000&text_color=555555&icon_color=000000" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranalishinde28&layout=compact&hide_border=true&theme=transparent&title_color=000000&text_color=555555" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pranalishinde28&show_icons=true&hide_border=true&theme=transparent&title_color=000000&text_color=555555&icon_color=000000" alt="GitHub statistics"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranalishinde28&layout=compact&hide_border=true&theme=transparent&title_color=000000&text_color=555555" alt="Most used languages"/>
 </p>
 
 ---
@@ -169,10 +161,9 @@ I believe good research engineering requires both scientific curiosity and the a
 <p align="center">
   <b>OPEN TO RESEARCH & ENGINEERING OPPORTUNITIES</b>
   <br/><br/>
-  Interested in collaborating on AI research, intelligent systems,
-  robotics and the future of mobility.
+  Interested in collaborating on machine learning, AI research, intelligent systems, robotics, and the future of mobility.
   <br/><br/>
-  <i>Let's build something meaningful.</i>
+  <i>Let's turn interesting questions into working systems.</i>
   <br/><br/>
   <a href="mailto:YOUR_EMAIL">Get in touch ↗</a>
 </p>
