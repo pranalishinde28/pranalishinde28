@@ -1,53 +1,65 @@
 
-<div align="center">
+<h1 align="center">Hi, I'm Pranali 👋</h1>
 
-# PRANALI SHINDE
+<h3 align="center">Research Engineer · AI Systems · Intelligent Mobility</h3>
 
-### Research Engineer · AI Systems · Intelligent Mobility
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Research%20Engineering%20Roles-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Tokyo%2C%20Japan-000000?style=for-the-badge" />
+</p>
 
-**Building intelligent systems that bridge research and real-world engineering.**
-
-Tokyo, Japan · IIT Patna
-
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL) · [GitHub](https://github.com/pranalishinde28)
-
-</div>
+<p align="center">
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_CV_LINK">
+    <img src="https://img.shields.io/badge/Resume-000000?style=flat&logo=readthedocs&logoColor=white" />
+  </a>
+  <a href="https://github.com/pranalishinde28">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## About
+### 🔬 About me
 
-I am a Computer Science engineer interested in understanding how intelligent systems can be designed, built, and deployed in the real world.
+I'm a Computer Science engineer interested in understanding how intelligent systems can be designed, built, and deployed in the real world.
 
-Currently working at **DENSO in Tokyo**, I explore problems at the intersection of AI, software engineering, digital identity, and automotive technology.
+Currently working at **DENSO Global R&D in Tokyo, Japan**, I explore problems at the intersection of AI, software engineering, digital identity, and automotive technology.
 
-My interests lie in going beyond model development — understanding system architecture, evaluating emerging technologies, and building reliable intelligent applications.
+My interests lie beyond model development — understanding system architectures, exploring emerging research, evaluating technical approaches, and building reliable intelligent applications.
 
 I enjoy the process of moving from an open-ended research question to an experiment, a working prototype, and eventually an engineering solution.
 
-- **Education:** B.Tech in Computer Science, IIT Patna (2023)
-- **Current focus:** AI agents, applied AI, intelligent mobility
-- **Research interests:** Agentic systems, robotics, distributed intelligence, trustworthy AI
-- **Based in:** Tokyo, Japan
-- **Interested in:** Research Engineer, Applied Scientist and AI Engineer opportunities
+- 🎓 **Education:** B.Tech in Computer Science, IIT Patna (2023)
+- 💼 **Current role:** DENSO Global R&D, Tokyo, Japan
+- 🎯 **Looking for:** Research Engineer / AI Research Engineer / Applied AI roles
+- 🧠 **Research interests:** Agentic AI · Physical AI · Intelligent Mobility · Trustworthy AI
+- 🌱 **Currently exploring:** AI agents, MCP, robotics, autonomous systems and edge intelligence
+- 🌏 **Location:** Tokyo, Japan · Open to global opportunities
 
 ---
 
-## Research Interests
+### 🧠 Research interests
 
-| Area | Interests |
-|---|---|
-| Artificial Intelligence | Applied ML, intelligent systems, AI agents |
-| Agentic Systems | Agent interoperability, MCP, tool use, orchestration |
-| Robotics & Mobility | Physical AI, autonomous systems, automotive intelligence |
+| Area | What interests me |
+|:---|:---|
+| Artificial Intelligence | Applied AI, intelligent systems, AI agents |
+| Agentic Systems | Agent interoperability, MCP, orchestration, tool use |
+| Physical AI | Robotics, autonomous systems, embodied intelligence |
+| Intelligent Mobility | Automotive intelligence, connected vehicles, edge AI |
 | Trustworthy AI | Digital identity, verifiable credentials, secure execution |
 | Systems Research | Distributed systems, system architecture, edge computing |
 
 ---
 
-## Selected Projects
+### 📌 Selected projects & engineering explorations
 
-### 01 — Intelligent Mobility & Digital Identity
+**01. Intelligent Mobility & Digital Identity**
 
 Exploring how vehicles can become trusted participants in connected mobility ecosystems.
 
@@ -56,20 +68,24 @@ Exploring how vehicles can become trusted participants in connected mobility eco
 - AI-assisted consent and authorization
 - Edge-based identity and trust architectures
 
-**Technologies:** Python, TypeScript, Node.js, SSI, OIDC4VC, SD-JWT
+`SSI` `OIDC4VC` `SD-JWT` `TypeScript` `Node.js`
 
-### 02 — Agentic AI & Interoperability
+---
 
-Exploring architectures for AI agents that can interact with external tools and services through structured interfaces.
+**02. Agentic AI & Interoperability**
+
+Exploring architectures for AI agents that interact with external tools, services, and digital environments.
 
 - Model Context Protocol (MCP)
 - Agent interoperability and orchestration
 - Identity-aware agent interactions
 - Security, governance and bounded tool access
 
-**Technologies:** TypeScript, Python, MCP, REST APIs
+`Python` `TypeScript` `MCP` `REST APIs`
 
-### 03 — Blockchain-Based Data Traceability
+---
+
+**03. Blockchain-Based Automotive Data Traceability**
 
 Engineering a proof of concept for trusted automotive data distribution.
 
@@ -78,56 +94,71 @@ Engineering a proof of concept for trusted automotive data distribution.
 - Role-based data access
 - Secure data-sharing workflows
 
-**Technologies:** Hyperledger Fabric, Node.js, AWS
+`Hyperledger Fabric` `Node.js` `AWS`
 
-### 04 — Garden of Poems
+---
+
+**04. [Garden of Poems](https://github.com/pranalishinde28/garden-of-poems)**
 
 A creative exploration of interactive 3D environments and digital storytelling.
 
-A virtual garden where written thoughts and poems grow into an evolving visual landscape.
+A virtual garden where thoughts and poems grow into an evolving visual landscape that users can explore.
 
-**Technologies:** JavaScript, Three.js, Next.js
-
-[Explore the project](https://github.com/pranalishinde28/garden-of-poems)
+`JavaScript` `Three.js` `Next.js`
 
 ---
 
-## Technical Toolkit
+### 📄 Publications & technical writing
 
-**Programming**
+Interested in documenting technical explorations, architectural decisions, research insights, and experiments.
 
-Python · TypeScript · JavaScript · Java
+- **Research notes:** Coming soon
+- **Technical writing:** Coming soon
+
+---
+
+### 🛠️ Technical toolkit
 
 **AI & Intelligent Systems**
 
-AI Agents · MCP · Applied AI · LLM Applications
+<img src="https://img.shields.io/badge/AI%20Agents-000000?style=flat" />
+<img src="https://img.shields.io/badge/MCP-000000?style=flat" />
+<img src="https://img.shields.io/badge/Applied%20AI-000000?style=flat" />
+<img src="https://img.shields.io/badge/LLM%20Applications-000000?style=flat" />
+
+**Programming & Development**
+
+<img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=white" />
 
 **Systems & Infrastructure**
 
-AWS · Docker · Linux · REST APIs · Distributed Systems
+<img src="https://img.shields.io/badge/AWS-000000?style=flat&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white" />
 
-**Identity & Security**
+**Identity, Security & Distributed Systems**
 
-SSI · Verifiable Credentials · OIDC4VC · Hyperledger Fabric
-
-**Development**
-
-Git · GitHub · Next.js · Node.js
-
----
-
-## What I Am Exploring
-
-- How can AI agents interact securely with the physical world?
-- How can intelligent systems maintain identity, trust and accountability?
-- How can AI move from impressive demonstrations to reliable engineering systems?
-- What architectures will enable the next generation of autonomous mobility?
-
-I am particularly interested in the emerging intersection of **Physical AI, robotics, autonomous systems and agentic intelligence**.
+<img src="https://img.shields.io/badge/Hyperledger%20Fabric-000000?style=flat" />
+<img src="https://img.shields.io/badge/SSI-000000?style=flat" />
+<img src="https://img.shields.io/badge/OIDC4VC-000000?style=flat" />
+<img src="https://img.shields.io/badge/Distributed%20Systems-000000?style=flat" />
 
 ---
 
-## Beyond the Code
+### 📊 GitHub activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pranalishinde28&show_icons=true&hide_border=true&theme=transparent&title_color=000000&text_color=555555&icon_color=000000" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranalishinde28&layout=compact&hide_border=true&theme=transparent&title_color=000000&text_color=555555" />
+</p>
+
+---
+
+### 💭 Beyond engineering
 
 I enjoy exploring emerging technologies, attending developer and research events, experimenting with unconventional ideas, and building things that make complex concepts tangible.
 
@@ -135,14 +166,13 @@ I believe good research engineering requires both scientific curiosity and the a
 
 ---
 
-<div align="center">
-
-### OPEN TO RESEARCH & ENGINEERING OPPORTUNITIES
-
-Interested in collaborating on AI research, intelligent systems, robotics and mobility.
-
-**Let's build something meaningful.**
-
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
-
-</div>
+<p align="center">
+  <b>OPEN TO RESEARCH & ENGINEERING OPPORTUNITIES</b>
+  <br/><br/>
+  Interested in collaborating on AI research, intelligent systems,
+  robotics and the future of mobility.
+  <br/><br/>
+  <i>Let's build something meaningful.</i>
+  <br/><br/>
+  <a href="mailto:YOUR_EMAIL">Get in touch ↗</a>
+</p>
